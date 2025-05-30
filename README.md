@@ -29,17 +29,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### My Projects 📂
-
-On this GitHub profile, you'll find a collection of my practice and showcase projects that demonstrate my practical skills in various DevOps and development areas. These projects include:
-
-* [Project Title 1]: Brief project description (e.g., Implementing CI/CD for a simple application with Docker and GitLab CI)
-* [Project Title 2]: Brief project description (e.g., Automating Linux tasks with Bash and Python)
-* [Project Title 3]: Brief project description (e.g., Configuring and managing a web server with Nginx/Apache)
-* ... (Add your other projects here)
-
----
-
 ### Learning & Future Plans 📚
 
 I am continuously looking to expand my knowledge and skills. My future learning roadmap includes:
