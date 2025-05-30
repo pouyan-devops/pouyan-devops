@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm pouyan! 👋
 
 A Computer Science graduate passionate about **DevOps**. 🚀 I'm actively seeking job opportunities to apply my skills and knowledge in a dynamic environment, contributing to the creation of stable and automated infrastructures.
 
@@ -48,5 +48,4 @@ I am continuously looking to expand my knowledge and skills. My future learning 
 I am open to collaboration and job opportunities in the DevOps field. Feel free to connect:
 
 * **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
-* **(Optional) Personal Website:** [Your Personal Website Link]
+* **Email:** pouyan9394@gmail.com
